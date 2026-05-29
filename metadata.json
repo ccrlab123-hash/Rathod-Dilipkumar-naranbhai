@@ -1,0 +1,6 @@
+{
+  "name": "Preschool Learning",
+  "description": "Pre-school interactive learning application for Gujarati, Hindi, and English Alphabets, Numbers, basic math addition and subtraction games, and educational animated videos with local voice feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
